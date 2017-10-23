@@ -43,9 +43,3 @@
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = https://github.com/Shougo/unite.vim.git
-[submodule "bundle/phpcomplete-extended-symfony"]
-	path = bundle/phpcomplete-extended-symfony
-	url = git@github.com:nacholibre/phpcomplete-extended-symfony.git
-[submodule "bundle/phpcomplete-extended"]
-	path = bundle/phpcomplete-extended
-	url = git@github.com:nacholibre/phpcomplete-extended.git
