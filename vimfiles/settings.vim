@@ -34,12 +34,12 @@ color wombat256mod
 
 " Showing line numbers and length
 set number  " show line numbers
-set tw=79   " width of document (used by gd)
+set tw=119   " width of document (used by gd)
 set nowrap  " don't automatically wrap on load
 set fo-=t   " don't automatically wrap text when typing
 set ruler
 set autoread autowrite
-set colorcolumn=80
+set colorcolumn=120
 highlight ColorColumn ctermbg=233
 
 
